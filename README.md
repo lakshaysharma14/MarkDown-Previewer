@@ -1,5 +1,5 @@
 # Markdown Syntax Previewer
-### Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Ito n this webapp we will be converting markdown syntax typed in one pane to HTML.
+### Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Ito n this webapp we will be converting markdown syntax to HTML.
 
 ## Tech Stack Used :- 
 ### 1.) ReactJs
